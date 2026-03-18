@@ -1,0 +1,8 @@
+En la rama main
+
+No hay commits todavía
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	notas-git.md
+Un archivo esta untracked cuando existe en la carpeta del proyecto, pero GIT aún no lo esta siguiendo porque no se ha añadido con git add, asi que no se incluira en el proximo commit
