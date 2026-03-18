@@ -1,1 +1,3 @@
+ed7366c (HEAD -> main) Añade archivo de notas inicial sobre Git
+
 Es importante porque un buen mensaje de commit deja claro por qué se hizo un cambio, facilita entender el historial y simplifica depurar o revertir errores en el futuro. Además, mejora la colaboración en equipo, ya que otros pueden revisar y mantener el código más rápido al tener contexto directo en el historial de commits.
