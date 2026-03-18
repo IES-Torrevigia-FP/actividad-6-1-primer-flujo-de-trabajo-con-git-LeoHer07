@@ -1,0 +1,9 @@
+En la rama main
+
+No hay commits todavía
+
+Cambios a ser confirmados:
+  (usa "git rm --cached <archivo>..." para sacar del área de stage)
+	nuevos archivos: notas-git.md
+Untracked: Es un archivo que Git no está siguiendo ni versionando. Necesita ser añadido con git add.
+Staging: Es la zona donde los archivos están preparados para ser confirmados en el próximo commit.
